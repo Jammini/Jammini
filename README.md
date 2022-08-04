@@ -1,8 +1,8 @@
-Welcome to my page!
+# Welcome to my page!
+---
+#### 👋 Hi, I’m @Jammini
 
-👋 Hi, I’m @Jammini
-
-Android developer, currently living in Seoul, Korea.
+#### Android developer, currently living in Seoul, Korea.
 
 ## I'm currently learning:
 ![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
